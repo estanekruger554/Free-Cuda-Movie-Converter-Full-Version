@@ -239,3 +239,6 @@ This repository serves as the official landing page for Free CUDA Movie Converte
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free CUDA Movie Converter today!**
+
+---
+**Last updated:** 2026-09-09 13:25:34 UTC
